@@ -1,0 +1,13 @@
+user_id,experiment_group,converted,revenue
+1,Control (A),0,0
+2,Control (A),0,0
+3,Control (A),1,24.50
+4,Control (A),0,0
+5,Control (A),1,12.00
+6,Variant (B),0,0
+7,Variant (B),1,35.00
+8,Variant (B),1,15.50
+9,Variant (B),1,18.00
+10,Variant (B),0,0
+11,Control (A),0,0
+12,Variant (B),1,22.00
