@@ -21,3 +21,7 @@ Increasing the frequency of purchases from existing customers is significantly c
 * `queries.sql`: SQL scripts for calculating conversion rates per test group.
 * `analysis.py`: Python script performing the hypothesis testing.
 * `data/`: Mock experiment result dataset containing user assignments and conversion flags.
+
+---
+## 📊 Dataset Reference
+This project was modeled using the principles and structures found in the [Marketing A/B Testing Dataset](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing), containing controlled experimental groups and conversion flags.
